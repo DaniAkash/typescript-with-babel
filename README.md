@@ -21,3 +21,8 @@
 ```sh
 npx http-server lib
 ```
+
+## Follow up Videos
+
+https://www.youtube.com/watch?v=se72XMlG1Ro&t=4s
+https://www.youtube.com/watch?v=dPgAXFcFHCM

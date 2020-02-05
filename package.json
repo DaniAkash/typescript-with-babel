@@ -1,0 +1,18 @@
+{
+  "name": "weekday-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "human.js",
+  "scripts": {
+    "build": "babel src -d lib --extensions \".ts\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-typescript": "^7.8.3"
+  }
+}
